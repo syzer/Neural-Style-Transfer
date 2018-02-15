@@ -11,5 +11,14 @@
 7. 16 convolutional and 5 pooling layers of the 19 layer VGG- Network.
 8. syntesis uses average pooling(smooth) n place of `max-pooling`
 
-there are implementations for thorch , cafee and tf
+9. calculate loss function  as sare distance between genereted image and gram matrix
+10. calculate gradient of loss between layers
+11. start from white noice
+12. Loss is sum of alpha * Loss of content and beta Loss of style 
+
+
+also there are known implementations for torch , cafee and tf
+
+
+# it follows pytorch state transfer tutorial
 
