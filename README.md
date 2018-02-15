@@ -1,4 +1,4 @@
-# this is fork, go to orginal contents
+# This is just a fork, go to original contents
 
 This is WIP.
 The paper I'm coding is : `A Neural Algorithm of Artistic Style Leon A. Gatys`.
