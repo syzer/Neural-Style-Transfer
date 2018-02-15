@@ -1,3 +1,11 @@
+# this is fork, go to orginal contents
+
+This is WIP.
+The paper I'm coding is : `A Neural Algorithm of Artistic Style Leon A. Gatys`.
+All stuff is in `implementingFromPaper` folder.
+It will/has torch and tf implementation.
+
+
 # Neural Style Transfer & Neural Doodles
 Implementation of Neural Style Transfer from the paper <a href="http://arxiv.org/abs/1508.06576">A Neural Algorithm of Artistic Style</a> in Keras 2.0+
 
